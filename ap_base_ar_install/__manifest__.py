@@ -37,7 +37,7 @@
         # Instalamos las retenciones
         "l10n_ar_account_withholding",
         # Factura Electrónica Argentina 
-        "l10n_ar_afipws_fe",
+        "l10n_ar_edi",
         # Instalamos el listado de bancos argentinos
         "l10n_ar_bank",
         # Tasa inversa para monedas
